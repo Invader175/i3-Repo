@@ -1,2 +1,2 @@
 # i3-Repo
-![Screenshot](screenshot.png)
+![Screenshot](Scrot_Black_Metal.png)
